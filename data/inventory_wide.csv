@@ -1,0 +1,521 @@
+SnapshotDate,MaterialDescription,PlantName,name,value
+2021-12-31,EV Car Battery,Antwerp DC,OnShelfInventoryQuantity,1626
+2021-12-31,EV Car Battery,Antwerp DC,InTransitQuantity,127
+2021-12-31,EV Car Battery,Wrocław DC,OnShelfInventoryQuantity,746
+2021-12-31,EV Car Battery,Wrocław DC,InTransitQuantity,48
+2021-12-31,EV Car Battery,Lyon DC,OnShelfInventoryQuantity,1430
+2021-12-31,EV Car Battery,Lyon DC,InTransitQuantity,113
+2021-12-31,EV Car Battery,Birmingham DC,OnShelfInventoryQuantity,93
+2021-12-31,EV Car Battery,Birmingham DC,InTransitQuantity,12
+2021-12-31,EV Car Battery,Göteborg DC,OnShelfInventoryQuantity,915
+2021-12-31,EV Car Battery,Göteborg DC,InTransitQuantity,113
+2021-12-31,Home Battery,Antwerp DC,OnShelfInventoryQuantity,566
+2021-12-31,Home Battery,Antwerp DC,InTransitQuantity,48
+2021-12-31,Home Battery,Wrocław DC,OnShelfInventoryQuantity,250
+2021-12-31,Home Battery,Wrocław DC,InTransitQuantity,31
+2021-12-31,Home Battery,Lyon DC,OnShelfInventoryQuantity,520
+2021-12-31,Home Battery,Lyon DC,InTransitQuantity,71
+2021-12-31,Home Battery,Birmingham DC,OnShelfInventoryQuantity,22
+2021-12-31,Home Battery,Birmingham DC,InTransitQuantity,3
+2021-12-31,Home Battery,Göteborg DC,OnShelfInventoryQuantity,663
+2021-12-31,Home Battery,Göteborg DC,InTransitQuantity,86
+2022-01-31,EV Car Battery,Antwerp DC,OnShelfInventoryQuantity,1460
+2022-01-31,EV Car Battery,Antwerp DC,InTransitQuantity,152.76
+2022-01-31,EV Car Battery,Wrocław DC,OnShelfInventoryQuantity,688
+2022-01-31,EV Car Battery,Wrocław DC,InTransitQuantity,106
+2022-01-31,EV Car Battery,Lyon DC,OnShelfInventoryQuantity,1260
+2022-01-31,EV Car Battery,Lyon DC,InTransitQuantity,66.98
+2022-01-31,EV Car Battery,Birmingham DC,OnShelfInventoryQuantity,77
+2022-01-31,EV Car Battery,Birmingham DC,InTransitQuantity,8.05
+2022-01-31,EV Car Battery,Göteborg DC,OnShelfInventoryQuantity,714
+2022-01-31,EV Car Battery,Göteborg DC,InTransitQuantity,108.4
+2022-01-31,Home Battery,Antwerp DC,OnShelfInventoryQuantity,575
+2022-01-31,Home Battery,Antwerp DC,InTransitQuantity,81.98
+2022-01-31,Home Battery,Wrocław DC,OnShelfInventoryQuantity,237
+2022-01-31,Home Battery,Wrocław DC,InTransitQuantity,24.33
+2022-01-31,Home Battery,Lyon DC,OnShelfInventoryQuantity,582
+2022-01-31,Home Battery,Lyon DC,InTransitQuantity,68.1
+2022-01-31,Home Battery,Birmingham DC,OnShelfInventoryQuantity,21
+2022-01-31,Home Battery,Birmingham DC,InTransitQuantity,3
+2022-01-31,Home Battery,Göteborg DC,OnShelfInventoryQuantity,666
+2022-01-31,Home Battery,Göteborg DC,InTransitQuantity,83
+2022-02-28,EV Car Battery,Antwerp DC,OnShelfInventoryQuantity,1226
+2022-02-28,EV Car Battery,Antwerp DC,InTransitQuantity,177.1012
+2022-02-28,EV Car Battery,Wrocław DC,OnShelfInventoryQuantity,772
+2022-02-28,EV Car Battery,Wrocław DC,InTransitQuantity,85.52
+2022-02-28,EV Car Battery,Lyon DC,OnShelfInventoryQuantity,1310
+2022-02-28,EV Car Battery,Lyon DC,InTransitQuantity,136.4082
+2022-02-28,EV Car Battery,Birmingham DC,OnShelfInventoryQuantity,78
+2022-02-28,EV Car Battery,Birmingham DC,InTransitQuantity,7.90049999999999
+2022-02-28,EV Car Battery,Göteborg DC,OnShelfInventoryQuantity,616
+2022-02-28,EV Car Battery,Göteborg DC,InTransitQuantity,58.3679999999999
+2022-02-28,Home Battery,Antwerp DC,OnShelfInventoryQuantity,497
+2022-02-28,Home Battery,Antwerp DC,InTransitQuantity,54.8632
+2022-02-28,Home Battery,Wrocław DC,OnShelfInventoryQuantity,255
+2022-02-28,Home Battery,Wrocław DC,InTransitQuantity,40.3029
+2022-02-28,Home Battery,Lyon DC,OnShelfInventoryQuantity,624
+2022-02-28,Home Battery,Lyon DC,InTransitQuantity,45.6030000000001
+2022-02-28,Home Battery,Birmingham DC,OnShelfInventoryQuantity,19
+2022-02-28,Home Battery,Birmingham DC,InTransitQuantity,1.88
+2022-02-28,Home Battery,Göteborg DC,OnShelfInventoryQuantity,622
+2022-02-28,Home Battery,Göteborg DC,InTransitQuantity,119.51
+2022-03-31,EV Car Battery,Antwerp DC,OnShelfInventoryQuantity,1477
+2022-03-31,EV Car Battery,Antwerp DC,InTransitQuantity,136.56638
+2022-03-31,EV Car Battery,Wrocław DC,OnShelfInventoryQuantity,717
+2022-03-31,EV Car Battery,Wrocław DC,InTransitQuantity,114.7944
+2022-03-31,EV Car Battery,Lyon DC,OnShelfInventoryQuantity,1110
+2022-03-31,EV Car Battery,Lyon DC,InTransitQuantity,133.911052
+2022-03-31,EV Car Battery,Birmingham DC,OnShelfInventoryQuantity,89
+2022-03-31,EV Car Battery,Birmingham DC,InTransitQuantity,8.06756499999999
+2022-03-31,EV Car Battery,Göteborg DC,OnShelfInventoryQuantity,546
+2022-03-31,EV Car Battery,Göteborg DC,InTransitQuantity,40.70016
+2022-03-31,Home Battery,Antwerp DC,OnShelfInventoryQuantity,411
+2022-03-31,Home Battery,Antwerp DC,InTransitQuantity,63.602352
+2022-03-31,Home Battery,Wrocław DC,OnShelfInventoryQuantity,238
+2022-03-31,Home Battery,Wrocław DC,InTransitQuantity,27.77261
+2022-03-31,Home Battery,Lyon DC,OnShelfInventoryQuantity,587
+2022-03-31,Home Battery,Lyon DC,InTransitQuantity,89.29903
+2022-03-31,Home Battery,Birmingham DC,OnShelfInventoryQuantity,20
+2022-03-31,Home Battery,Birmingham DC,InTransitQuantity,2.1328
+2022-03-31,Home Battery,Göteborg DC,OnShelfInventoryQuantity,547
+2022-03-31,Home Battery,Göteborg DC,InTransitQuantity,61.0382
+2022-04-30,EV Car Battery,Antwerp DC,OnShelfInventoryQuantity,1599
+2022-04-30,EV Car Battery,Antwerp DC,InTransitQuantity,256.601337
+2022-04-30,EV Car Battery,Wrocław DC,OnShelfInventoryQuantity,654
+2022-04-30,EV Car Battery,Wrocław DC,InTransitQuantity,28.071408
+2022-04-30,EV Car Battery,Lyon DC,OnShelfInventoryQuantity,1105
+2022-04-30,EV Car Battery,Lyon DC,InTransitQuantity,114.03283096
+2022-04-30,EV Car Battery,Birmingham DC,OnShelfInventoryQuantity,71
+2022-04-30,EV Car Battery,Birmingham DC,InTransitQuantity,8.59540329999999
+2022-04-30,EV Car Battery,Göteborg DC,OnShelfInventoryQuantity,582
+2022-04-30,EV Car Battery,Göteborg DC,InTransitQuantity,22.3011647999999
+2022-04-30,Home Battery,Antwerp DC,OnShelfInventoryQuantity,436
+2022-04-30,Home Battery,Antwerp DC,InTransitQuantity,43.34837552
+2022-04-30,Home Battery,Wrocław DC,OnShelfInventoryQuantity,241
+2022-04-30,Home Battery,Wrocław DC,InTransitQuantity,14.1417056
+2022-04-30,Home Battery,Lyon DC,OnShelfInventoryQuantity,617
+2022-04-30,Home Battery,Lyon DC,InTransitQuantity,59.29903
+2022-04-30,Home Battery,Birmingham DC,OnShelfInventoryQuantity,19
+2022-04-30,Home Battery,Birmingham DC,InTransitQuantity,2.02616
+2022-04-30,Home Battery,Göteborg DC,OnShelfInventoryQuantity,567
+2022-04-30,Home Battery,Göteborg DC,InTransitQuantity,71.44011
+2022-05-31,EV Car Battery,Antwerp DC,OnShelfInventoryQuantity,1796
+2022-05-31,EV Car Battery,Antwerp DC,InTransitQuantity,282.27349744000003
+2022-05-31,EV Car Battery,Wrocław DC,OnShelfInventoryQuantity,655
+2022-05-31,EV Car Battery,Wrocław DC,InTransitQuantity,47.5335502400001
+2022-05-31,EV Car Battery,Lyon DC,OnShelfInventoryQuantity,1062
+2022-05-31,EV Car Battery,Lyon DC,InTransitQuantity,120.4618460312
+2022-05-31,EV Car Battery,Birmingham DC,OnShelfInventoryQuantity,65
+2022-05-31,EV Car Battery,Birmingham DC,InTransitQuantity,9.02372506899999
+2022-05-31,EV Car Battery,Göteborg DC,OnShelfInventoryQuantity,546
+2022-05-31,EV Car Battery,Göteborg DC,InTransitQuantity,16.000083264
+2022-05-31,Home Battery,Antwerp DC,OnShelfInventoryQuantity,374
+2022-05-31,Home Battery,Antwerp DC,InTransitQuantity,38.2396029472
+2022-05-31,Home Battery,Wrocław DC,OnShelfInventoryQuantity,210
+2022-05-31,Home Battery,Wrocław DC,InTransitQuantity,24.730369152
+2022-05-31,Home Battery,Lyon DC,OnShelfInventoryQuantity,644
+2022-05-31,Home Battery,Lyon DC,InTransitQuantity,93.1659427
+2022-05-31,Home Battery,Birmingham DC,OnShelfInventoryQuantity,20
+2022-05-31,Home Battery,Birmingham DC,InTransitQuantity,2.9185144
+2022-05-31,Home Battery,Göteborg DC,OnShelfInventoryQuantity,655
+2022-05-31,Home Battery,Göteborg DC,InTransitQuantity,79.2061265
+2022-06-30,EV Car Battery,Antwerp DC,OnShelfInventoryQuantity,1965
+2022-06-30,EV Car Battery,Antwerp DC,InTransitQuantity,383.4490521072
+2022-06-30,EV Car Battery,Wrocław DC,OnShelfInventoryQuantity,574
+2022-06-30,EV Car Battery,Wrocław DC,InTransitQuantity,93.4068727280001
+2022-06-30,EV Car Battery,Lyon DC,OnShelfInventoryQuantity,871
+2022-06-30,EV Car Battery,Lyon DC,InTransitQuantity,74.9694768249599
+2022-06-30,EV Car Battery,Birmingham DC,OnShelfInventoryQuantity,81
+2022-06-30,EV Car Battery,Birmingham DC,InTransitQuantity,3.38704657865999
+2022-06-30,EV Car Battery,Göteborg DC,OnShelfInventoryQuantity,499
+2022-06-30,EV Car Battery,Göteborg DC,InTransitQuantity,23.66007743552
+2022-06-30,Home Battery,Antwerp DC,OnShelfInventoryQuantity,344
+2022-06-30,Home Battery,Antwerp DC,InTransitQuantity,39.3828307408959
+2022-06-30,Home Battery,Wrocław DC,OnShelfInventoryQuantity,219
+2022-06-30,Home Battery,Wrocław DC,InTransitQuantity,15.730369152
+2022-06-30,Home Battery,Lyon DC,OnShelfInventoryQuantity,652
+2022-06-30,Home Battery,Lyon DC,InTransitQuantity,92.537602127
+2022-06-30,Home Battery,Birmingham DC,OnShelfInventoryQuantity,23
+2022-06-30,Home Battery,Birmingham DC,InTransitQuantity,3.127106416
+2022-06-30,Home Battery,Göteborg DC,OnShelfInventoryQuantity,663
+2022-06-30,Home Battery,Göteborg DC,InTransitQuantity,71.2061265
+2022-07-31,EV Car Battery,Antwerp DC,OnShelfInventoryQuantity,2293
+2022-07-31,EV Car Battery,Antwerp DC,InTransitQuantity,290.29395731792
+2022-07-31,EV Car Battery,Wrocław DC,OnShelfInventoryQuantity,542
+2022-07-31,EV Car Battery,Wrocław DC,InTransitQuantity,58.6661854552001
+2022-07-31,EV Car Battery,Lyon DC,OnShelfInventoryQuantity,928
+2022-07-31,EV Car Battery,Lyon DC,InTransitQuantity,74.7276454344575
+2022-07-31,EV Car Battery,Birmingham DC,OnShelfInventoryQuantity,77
+2022-07-31,EV Car Battery,Birmingham DC,InTransitQuantity,15.825751236526
+2022-07-31,EV Car Battery,Göteborg DC,OnShelfInventoryQuantity,421
+2022-07-31,EV Car Battery,Göteborg DC,InTransitQuantity,49.394069691968
+2022-07-31,Home Battery,Antwerp DC,OnShelfInventoryQuantity,287
+2022-07-31,Home Battery,Antwerp DC,InTransitQuantity,35.0415778223526
+2022-07-31,Home Battery,Wrocław DC,OnShelfInventoryQuantity,236
+2022-07-31,Home Battery,Wrocław DC,InTransitQuantity,29.24531714176
+2022-07-31,Home Battery,Lyon DC,OnShelfInventoryQuantity,665
+2022-07-31,Home Battery,Lyon DC,InTransitQuantity,64.64685008446
+2022-07-31,Home Battery,Birmingham DC,OnShelfInventoryQuantity,23
+2022-07-31,Home Battery,Birmingham DC,InTransitQuantity,2.08202215936
+2022-07-31,Home Battery,Göteborg DC,OnShelfInventoryQuantity,585
+2022-07-31,Home Battery,Göteborg DC,InTransitQuantity,46.41726879
+2022-08-31,EV Car Battery,Antwerp DC,OnShelfInventoryQuantity,2243
+2022-08-31,EV Car Battery,Antwerp DC,InTransitQuantity,262.795138598382
+2022-08-31,EV Car Battery,Wrocław DC,OnShelfInventoryQuantity,428
+2022-08-31,EV Car Battery,Wrocław DC,InTransitQuantity,52.5329483641601
+2022-08-31,EV Car Battery,Lyon DC,OnShelfInventoryQuantity,712
+2022-08-31,EV Car Battery,Lyon DC,InTransitQuantity,90.182116347566
+2022-08-31,EV Car Battery,Birmingham DC,OnShelfInventoryQuantity,88
+2022-08-31,EV Car Battery,Birmingham DC,InTransitQuantity,2.96923621179548
+2022-08-31,EV Car Battery,Göteborg DC,OnShelfInventoryQuantity,443
+2022-08-31,EV Car Battery,Göteborg DC,InTransitQuantity,93.2492394488435
+2022-08-31,Home Battery,Antwerp DC,OnShelfInventoryQuantity,273
+2022-08-31,Home Battery,Antwerp DC,InTransitQuantity,36.1599147094585
+2022-08-31,Home Battery,Wrocław DC,OnShelfInventoryQuantity,273
+2022-08-31,Home Battery,Wrocław DC,InTransitQuantity,24.0747551987712
+2022-08-31,Home Battery,Lyon DC,OnShelfInventoryQuantity,569
+2022-08-31,Home Battery,Lyon DC,InTransitQuantity,94.9786335768586
+2022-08-31,Home Battery,Birmingham DC,OnShelfInventoryQuantity,19
+2022-08-31,Home Battery,Birmingham DC,InTransitQuantity,3.3229997218304
+2022-08-31,Home Battery,Göteborg DC,OnShelfInventoryQuantity,634
+2022-08-31,Home Battery,Göteborg DC,InTransitQuantity,41.6164776053
+2022-09-30,EV Car Battery,Antwerp DC,OnShelfInventoryQuantity,2545
+2022-09-30,EV Car Battery,Antwerp DC,InTransitQuantity,211.374652458221
+2022-09-30,EV Car Battery,Wrocław DC,OnShelfInventoryQuantity,459
+2022-09-30,EV Car Battery,Wrocław DC,InTransitQuantity,64.7809137169345
+2022-09-30,EV Car Battery,Lyon DC,OnShelfInventoryQuantity,708
+2022-09-30,EV Car Battery,Lyon DC,InTransitQuantity,94.182116347566
+2022-09-30,EV Car Battery,Birmingham DC,OnShelfInventoryQuantity,75
+2022-09-30,EV Car Battery,Birmingham DC,InTransitQuantity,13.2401591254416
+2022-09-30,EV Car Battery,Göteborg DC,OnShelfInventoryQuantity,457
+2022-09-30,EV Car Battery,Göteborg DC,InTransitQuantity,30.9868078984476
+2022-09-30,Home Battery,Antwerp DC,OnShelfInventoryQuantity,270
+2022-09-30,Home Battery,Antwerp DC,InTransitQuantity,45.3431130036477
+2022-09-30,Home Battery,Wrocław DC,OnShelfInventoryQuantity,237
+2022-09-30,Home Battery,Wrocław DC,InTransitQuantity,36.3087747828695
+2022-09-30,Home Battery,Lyon DC,OnShelfInventoryQuantity,507
+2022-09-30,Home Battery,Lyon DC,InTransitQuantity,70.6614112118669
+2022-09-30,Home Battery,Birmingham DC,OnShelfInventoryQuantity,18
+2022-09-30,Home Battery,Birmingham DC,InTransitQuantity,1.64423975521075
+2022-09-30,Home Battery,Göteborg DC,OnShelfInventoryQuantity,707
+2022-09-30,Home Battery,Göteborg DC,InTransitQuantity,69.958949246095
+2022-10-31,EV Car Battery,Antwerp DC,OnShelfInventoryQuantity,2945
+2022-10-31,EV Car Battery,Antwerp DC,InTransitQuantity,197.267103802372
+2022-10-31,EV Car Battery,Wrocław DC,OnShelfInventoryQuantity,443
+2022-10-31,EV Car Battery,Wrocław DC,InTransitQuantity,49.3540588939184
+2022-10-31,EV Car Battery,Lyon DC,OnShelfInventoryQuantity,641
+2022-10-31,EV Car Battery,Lyon DC,InTransitQuantity,48.8766200589067
+2022-10-31,EV Car Battery,Birmingham DC,OnShelfInventoryQuantity,64
+2022-10-31,EV Car Battery,Birmingham DC,InTransitQuantity,9.23933207411653
+2022-10-31,EV Car Battery,Göteborg DC,OnShelfInventoryQuantity,486
+2022-10-31,EV Car Battery,Göteborg DC,InTransitQuantity,65.4250929252457
+2022-10-31,Home Battery,Antwerp DC,OnShelfInventoryQuantity,242
+2022-10-31,Home Battery,Antwerp DC,InTransitQuantity,19.7347837930275
+2022-10-31,Home Battery,Wrocław DC,OnShelfInventoryQuantity,233
+2022-10-31,Home Battery,Wrocław DC,InTransitQuantity,26.643336043726
+2022-10-31,Home Battery,Lyon DC,OnShelfInventoryQuantity,570
+2022-10-31,Home Battery,Lyon DC,InTransitQuantity,76.9807805572909
+2022-10-31,Home Battery,Birmingham DC,OnShelfInventoryQuantity,17
+2022-10-31,Home Battery,Birmingham DC,InTransitQuantity,2.25135496010654
+2022-10-31,Home Battery,Göteborg DC,OnShelfInventoryQuantity,752
+2022-10-31,Home Battery,Göteborg DC,InTransitQuantity,48.2677177234779
+2022-11-30,EV Car Battery,Antwerp DC,OnShelfInventoryQuantity,2236
+2022-11-30,EV Car Battery,Antwerp DC,InTransitQuantity,309.236354079921
+2022-11-30,EV Car Battery,Wrocław DC,OnShelfInventoryQuantity,430
+2022-11-30,EV Car Battery,Wrocław DC,InTransitQuantity,27.8892747713441
+2022-11-30,EV Car Battery,Lyon DC,OnShelfInventoryQuantity,644
+2022-11-30,EV Car Battery,Lyon DC,InTransitQuantity,87.2692172624411
+2022-11-30,EV Car Battery,Birmingham DC,OnShelfInventoryQuantity,57
+2022-11-30,EV Car Battery,Birmingham DC,InTransitQuantity,2.32385898003439
+2022-11-30,EV Car Battery,Göteborg DC,OnShelfInventoryQuantity,547
+2022-11-30,EV Car Battery,Göteborg DC,InTransitQuantity,70.5961040762752
+2022-11-30,Home Battery,Antwerp DC,OnShelfInventoryQuantity,247
+2022-11-30,Home Battery,Antwerp DC,InTransitQuantity,17.3521316309578
+2022-11-30,Home Battery,Wrocław DC,OnShelfInventoryQuantity,192
+2022-11-30,Home Battery,Wrocław DC,InTransitQuantity,20.9075355558553
+2022-11-30,Home Battery,Lyon DC,OnShelfInventoryQuantity,483
+2022-11-30,Home Battery,Lyon DC,InTransitQuantity,92.8128946959889
+2022-11-30,Home Battery,Birmingham DC,OnShelfInventoryQuantity,20
+2022-11-30,Home Battery,Birmingham DC,InTransitQuantity,2.13905820412252
+2022-11-30,Home Battery,Göteborg DC,OnShelfInventoryQuantity,680
+2022-11-30,Home Battery,Göteborg DC,InTransitQuantity,40.24094595113
+2022-12-31,EV Car Battery,Antwerp DC,OnShelfInventoryQuantity,2051
+2022-12-31,EV Car Battery,Antwerp DC,InTransitQuantity,214.26035513113
+2022-12-31,EV Car Battery,Wrocław DC,OnShelfInventoryQuantity,346
+2022-12-31,EV Car Battery,Wrocław DC,InTransitQuantity,66.1003472942097
+2022-12-31,EV Car Battery,Lyon DC,OnShelfInventoryQuantity,592
+2022-12-31,EV Car Battery,Lyon DC,InTransitQuantity,88.0803720540703
+2022-12-31,EV Car Battery,Birmingham DC,OnShelfInventoryQuantity,59
+2022-12-31,EV Car Battery,Birmingham DC,InTransitQuantity,7.44272205763852
+2022-12-31,EV Car Battery,Göteborg DC,OnShelfInventoryQuantity,614
+2022-12-31,EV Car Battery,Göteborg DC,InTransitQuantity,90.0595586469537
+2022-12-31,Home Battery,Antwerp DC,OnShelfInventoryQuantity,187
+2022-12-31,Home Battery,Antwerp DC,InTransitQuantity,29.7687479373854
+2022-12-31,Home Battery,Wrocław DC,OnShelfInventoryQuantity,205
+2022-12-31,Home Battery,Wrocław DC,InTransitQuantity,31.3273644669994
+2022-12-31,Home Battery,Lyon DC,OnShelfInventoryQuantity,587
+2022-12-31,Home Battery,Lyon DC,InTransitQuantity,52.1523131125477
+2022-12-31,Home Battery,Birmingham DC,OnShelfInventoryQuantity,16
+2022-12-31,Home Battery,Birmingham DC,InTransitQuantity,1.71124656329801
+2022-12-31,Home Battery,Göteborg DC,OnShelfInventoryQuantity,591
+2022-12-31,Home Battery,Göteborg DC,InTransitQuantity,100.431308113085
+2023-01-31,EV Car Battery,Antwerp DC,OnShelfInventoryQuantity,1675
+2023-01-31,EV Car Battery,Antwerp DC,InTransitQuantity,182.513491207527
+2023-01-31,EV Car Battery,Wrocław DC,OnShelfInventoryQuantity,437
+2023-01-31,EV Car Battery,Wrocław DC,InTransitQuantity,28.673392442457
+2023-01-31,EV Car Battery,Lyon DC,OnShelfInventoryQuantity,481
+2023-01-31,EV Car Battery,Lyon DC,InTransitQuantity,69.865101363797
+2023-01-31,EV Car Battery,Birmingham DC,OnShelfInventoryQuantity,60
+2023-01-31,EV Car Battery,Birmingham DC,InTransitQuantity,5.77829483706213
+2023-01-31,EV Car Battery,Göteborg DC,OnShelfInventoryQuantity,608
+2023-01-31,EV Car Battery,Göteborg DC,InTransitQuantity,96.0595586469537
+2023-01-31,Home Battery,Antwerp DC,OnShelfInventoryQuantity,200
+2023-01-31,Home Battery,Antwerp DC,InTransitQuantity,29.7748728136285
+2023-01-31,Home Battery,Wrocław DC,OnShelfInventoryQuantity,218
+2023-01-31,Home Battery,Wrocław DC,InTransitQuantity,23.0539117563394
+2023-01-31,Home Battery,Lyon DC,OnShelfInventoryQuantity,527
+2023-01-31,Home Battery,Lyon DC,InTransitQuantity,54.6286049324184
+2023-01-31,Home Battery,Birmingham DC,OnShelfInventoryQuantity,16
+2023-01-31,Home Battery,Birmingham DC,InTransitQuantity,1.71124656329801
+2023-01-31,Home Battery,Göteborg DC,OnShelfInventoryQuantity,588
+2023-01-31,Home Battery,Göteborg DC,InTransitQuantity,48.1168034640381
+2023-02-28,EV Car Battery,Antwerp DC,OnShelfInventoryQuantity,1642
+2023-02-28,EV Car Battery,Antwerp DC,InTransitQuantity,104.062681735075
+2023-02-28,EV Car Battery,Wrocław DC,OnShelfInventoryQuantity,425
+2023-02-28,EV Car Battery,Wrocław DC,InTransitQuantity,68.6137959890044
+2023-02-28,EV Car Battery,Lyon DC,OnShelfInventoryQuantity,473
+2023-02-28,EV Car Battery,Lyon DC,InTransitQuantity,44.8131952819691
+2023-02-28,EV Car Battery,Birmingham DC,OnShelfInventoryQuantity,66
+2023-02-28,EV Car Battery,Birmingham DC,InTransitQuantity,8.98725611425084
+2023-02-28,EV Car Battery,Göteborg DC,OnShelfInventoryQuantity,696
+2023-02-28,EV Car Battery,Göteborg DC,InTransitQuantity,57.3437277522405
+2023-02-28,Home Battery,Antwerp DC,OnShelfInventoryQuantity,236
+2023-02-28,Home Battery,Antwerp DC,InTransitQuantity,21.3478575512639
+2023-02-28,Home Battery,Wrocław DC,OnShelfInventoryQuantity,222
+2023-02-28,Home Battery,Wrocław DC,InTransitQuantity,28.696068226593
+2023-02-28,Home Battery,Lyon DC,OnShelfInventoryQuantity,621
+2023-02-28,Home Battery,Lyon DC,InTransitQuantity,42.056609622957
+2023-02-28,Home Battery,Birmingham DC,OnShelfInventoryQuantity,18
+2023-02-28,Home Battery,Birmingham DC,InTransitQuantity,2.36793354779271
+2023-02-28,Home Battery,Göteborg DC,OnShelfInventoryQuantity,549
+2023-02-28,Home Battery,Göteborg DC,InTransitQuantity,29.8662911522747
+2023-03-31,EV Car Battery,Antwerp DC,OnShelfInventoryQuantity,1676
+2023-03-31,EV Car Battery,Antwerp DC,InTransitQuantity,157.365815821829
+2023-03-31,EV Car Battery,Wrocław DC,OnShelfInventoryQuantity,425
+2023-03-31,EV Car Battery,Wrocław DC,InTransitQuantity,78.4860719087845
+2023-03-31,EV Car Battery,Lyon DC,OnShelfInventoryQuantity,485
+2023-03-31,EV Car Battery,Lyon DC,InTransitQuantity,53.5257230932478
+2023-03-31,EV Car Battery,Birmingham DC,OnShelfInventoryQuantity,56
+2023-03-31,EV Car Battery,Birmingham DC,InTransitQuantity,7.73916769711322
+2023-03-31,EV Car Battery,Göteborg DC,OnShelfInventoryQuantity,735
+2023-03-31,EV Car Battery,Göteborg DC,InTransitQuantity,71.0777886948973
+2023-03-31,Home Battery,Antwerp DC,OnShelfInventoryQuantity,202
+2023-03-31,Home Battery,Antwerp DC,InTransitQuantity,27.0395932206249
+2023-03-31,Home Battery,Wrocław DC,OnShelfInventoryQuantity,265
+2023-03-31,Home Battery,Wrocław DC,InTransitQuantity,23.3004784605819
+2023-03-31,Home Battery,Lyon DC,OnShelfInventoryQuantity,634
+2023-03-31,Home Battery,Lyon DC,InTransitQuantity,82.1011383927936
+2023-03-31,Home Battery,Birmingham DC,OnShelfInventoryQuantity,18
+2023-03-31,Home Battery,Birmingham DC,InTransitQuantity,1.75689554135893
+2023-03-31,Home Battery,Göteborg DC,OnShelfInventoryQuantity,555
+2023-03-31,Home Battery,Göteborg DC,InTransitQuantity,81.7529202675022
+2023-04-30,EV Car Battery,Antwerp DC,OnShelfInventoryQuantity,1557
+2023-04-30,EV Car Battery,Antwerp DC,InTransitQuantity,166.363866872519
+2023-04-30,EV Car Battery,Wrocław DC,OnShelfInventoryQuantity,402
+2023-04-30,EV Car Battery,Wrocław DC,InTransitQuantity,71.2769075942574
+2023-04-30,EV Car Battery,Lyon DC,OnShelfInventoryQuantity,453
+2023-04-30,EV Car Battery,Lyon DC,InTransitQuantity,42.443665245788
+2023-04-30,EV Car Battery,Birmingham DC,OnShelfInventoryQuantity,48
+2023-04-30,EV Car Battery,Birmingham DC,InTransitQuantity,6.17829254254623
+2023-04-30,EV Car Battery,Göteborg DC,OnShelfInventoryQuantity,638
+2023-04-30,EV Car Battery,Göteborg DC,InTransitQuantity,47.1661203906627
+2023-04-30,Home Battery,Antwerp DC,OnShelfInventoryQuantity,182
+2023-04-30,Home Battery,Antwerp DC,InTransitQuantity,17.2644461019437
+2023-04-30,Home Battery,Wrocław DC,OnShelfInventoryQuantity,286
+2023-04-30,Home Battery,Wrocław DC,InTransitQuantity,19.5985071682168
+2023-04-30,Home Battery,Lyon DC,OnShelfInventoryQuantity,632
+2023-04-30,Home Battery,Lyon DC,InTransitQuantity,91.2621497767216
+2023-04-30,Home Battery,Birmingham DC,OnShelfInventoryQuantity,19
+2023-04-30,Home Battery,Birmingham DC,InTransitQuantity,0.756895541358933
+2023-04-30,Home Battery,Göteborg DC,OnShelfInventoryQuantity,512
+2023-04-30,Home Battery,Göteborg DC,InTransitQuantity,61.077628240752
+2023-05-31,EV Car Battery,Antwerp DC,OnShelfInventoryQuantity,1480
+2023-05-31,EV Car Battery,Antwerp DC,InTransitQuantity,260.597505541244
+2023-05-31,EV Car Battery,Wrocław DC,OnShelfInventoryQuantity,381
+2023-05-31,EV Car Battery,Wrocław DC,InTransitQuantity,68.6130622145445
+2023-05-31,EV Car Battery,Lyon DC,OnShelfInventoryQuantity,352
+2023-05-31,EV Car Battery,Lyon DC,InTransitQuantity,54.2638055015461
+2023-05-31,EV Car Battery,Birmingham DC,OnShelfInventoryQuantity,47
+2023-05-31,EV Car Battery,Birmingham DC,InTransitQuantity,3.38581206456799
+2023-05-31,EV Car Battery,Göteborg DC,OnShelfInventoryQuantity,507
+2023-05-31,EV Car Battery,Göteborg DC,InTransitQuantity,61.6878799242501
+2023-05-31,Home Battery,Antwerp DC,OnShelfInventoryQuantity,154
+2023-05-31,Home Battery,Antwerp DC,InTransitQuantity,15.3747791866521
+2023-05-31,Home Battery,Wrocław DC,OnShelfInventoryQuantity,265
+2023-05-31,Home Battery,Wrocław DC,InTransitQuantity,65.0463877416741
+2023-05-31,Home Battery,Lyon DC,OnShelfInventoryQuantity,523
+2023-05-31,Home Battery,Lyon DC,InTransitQuantity,55.6097198213772
+2023-05-31,Home Battery,Birmingham DC,OnShelfInventoryQuantity,16
+2023-05-31,Home Battery,Birmingham DC,InTransitQuantity,1.18849912098227
+2023-05-31,Home Battery,Göteborg DC,OnShelfInventoryQuantity,508
+2023-05-31,Home Battery,Göteborg DC,InTransitQuantity,36.4237468287145
+2023-06-30,EV Car Battery,Antwerp DC,OnShelfInventoryQuantity,1467
+2023-06-30,EV Car Battery,Antwerp DC,InTransitQuantity,221.379580375007
+2023-06-30,EV Car Battery,Wrocław DC,OnShelfInventoryQuantity,344
+2023-06-30,EV Car Battery,Wrocław DC,InTransitQuantity,56.1556253709446
+2023-06-30,EV Car Battery,Lyon DC,OnShelfInventoryQuantity,393
+2023-06-30,EV Car Battery,Lyon DC,InTransitQuantity,41.7022718866544
+2023-06-30,EV Car Battery,Birmingham DC,OnShelfInventoryQuantity,43
+2023-06-30,EV Car Battery,Birmingham DC,InTransitQuantity,3.85880522004823
+2023-06-30,EV Car Battery,Göteborg DC,OnShelfInventoryQuantity,524
+2023-06-30,EV Car Battery,Göteborg DC,InTransitQuantity,67.43539512122
+2023-06-30,Home Battery,Antwerp DC,OnShelfInventoryQuantity,164
+2023-06-30,Home Battery,Antwerp DC,InTransitQuantity,7.06852697851863
+2023-06-30,Home Battery,Wrocław DC,OnShelfInventoryQuantity,314
+2023-06-30,Home Battery,Wrocław DC,InTransitQuantity,42.450098761008
+2023-06-30,Home Battery,Lyon DC,OnShelfInventoryQuantity,437
+2023-06-30,Home Battery,Lyon DC,InTransitQuantity,54.8182618481707
+2023-06-30,Home Battery,Birmingham DC,OnShelfInventoryQuantity,17
+2023-06-30,Home Battery,Birmingham DC,InTransitQuantity,2.59488899791979
+2023-06-30,Home Battery,Göteborg DC,OnShelfInventoryQuantity,469
+2023-06-30,Home Battery,Göteborg DC,InTransitQuantity,42.7583220189916
+2023-07-31,EV Car Battery,Antwerp DC,OnShelfInventoryQuantity,1430
+2023-07-31,EV Car Battery,Antwerp DC,InTransitQuantity,241.495784571257
+2023-07-31,EV Car Battery,Wrocław DC,OnShelfInventoryQuantity,336
+2023-07-31,EV Car Battery,Wrocław DC,InTransitQuantity,28.1416190875596
+2023-07-31,EV Car Battery,Lyon DC,OnShelfInventoryQuantity,373
+2023-07-31,EV Car Battery,Lyon DC,InTransitQuantity,48.6612037300548
+2023-07-31,EV Car Battery,Birmingham DC,OnShelfInventoryQuantity,40
+2023-07-31,EV Car Battery,Birmingham DC,InTransitQuantity,4.04727690684534
+2023-07-31,EV Car Battery,Göteborg DC,OnShelfInventoryQuantity,591
+2023-07-31,EV Car Battery,Göteborg DC,InTransitQuantity,77.3219964869786
+2023-07-31,Home Battery,Antwerp DC,OnShelfInventoryQuantity,122
+2023-07-31,Home Battery,Antwerp DC,InTransitQuantity,18.2761921223853
+2023-07-31,Home Battery,Wrocław DC,OnShelfInventoryQuantity,334
+2023-07-31,Home Battery,Wrocław DC,InTransitQuantity,54.5306076494987
+2023-07-31,Home Battery,Lyon DC,OnShelfInventoryQuantity,363
+2023-07-31,Home Battery,Lyon DC,InTransitQuantity,40.2909747154999
+2023-07-31,Home Battery,Birmingham DC,OnShelfInventoryQuantity,16
+2023-07-31,Home Battery,Birmingham DC,InTransitQuantity,2.6151445480238
+2023-07-31,Home Battery,Göteborg DC,OnShelfInventoryQuantity,403
+2023-07-31,Home Battery,Göteborg DC,InTransitQuantity,98.5231555786117
+2023-08-31,EV Car Battery,Antwerp DC,OnShelfInventoryQuantity,1501
+2023-08-31,EV Car Battery,Antwerp DC,InTransitQuantity,170.495784571257
+2023-08-31,EV Car Battery,Wrocław DC,OnShelfInventoryQuantity,368
+2023-08-31,EV Car Battery,Wrocław DC,InTransitQuantity,25.2729486145644
+2023-08-31,EV Car Battery,Lyon DC,OnShelfInventoryQuantity,368
+2023-08-31,EV Car Battery,Lyon DC,InTransitQuantity,28.3615315062515
+2023-08-31,EV Car Battery,Birmingham DC,OnShelfInventoryQuantity,43
+2023-08-31,EV Car Battery,Birmingham DC,InTransitQuantity,3.69011352125606
+2023-08-31,EV Car Battery,Göteborg DC,OnShelfInventoryQuantity,546
+2023-08-31,EV Car Battery,Göteborg DC,InTransitQuantity,88.9058966626296
+2023-08-31,Home Battery,Antwerp DC,OnShelfInventoryQuantity,114
+2023-08-31,Home Battery,Antwerp DC,InTransitQuantity,5.2347633040275
+2023-08-31,Home Battery,Wrocław DC,OnShelfInventoryQuantity,293
+2023-08-31,Home Battery,Wrocław DC,InTransitQuantity,29.4804043490839
+2023-08-31,Home Battery,Lyon DC,OnShelfInventoryQuantity,383
+2023-08-31,Home Battery,Lyon DC,InTransitQuantity,24.3238844626549
+2023-08-31,Home Battery,Birmingham DC,OnShelfInventoryQuantity,17
+2023-08-31,Home Battery,Birmingham DC,InTransitQuantity,1.98744743898428
+2023-08-31,Home Battery,Göteborg DC,OnShelfInventoryQuantity,525
+2023-08-31,Home Battery,Göteborg DC,InTransitQuantity,46.7363973596174
+2023-09-30,EV Car Battery,Antwerp DC,OnShelfInventoryQuantity,1574
+2023-09-30,EV Car Battery,Antwerp DC,InTransitQuantity,247.93040518267
+2023-09-30,EV Car Battery,Wrocław DC,OnShelfInventoryQuantity,302
+2023-09-30,EV Car Battery,Wrocław DC,InTransitQuantity,24.4165473500884
+2023-09-30,EV Car Battery,Lyon DC,OnShelfInventoryQuantity,324
+2023-09-30,EV Car Battery,Lyon DC,InTransitQuantity,48.5798396158764
+2023-09-30,EV Car Battery,Birmingham DC,OnShelfInventoryQuantity,48
+2023-09-30,EV Car Battery,Birmingham DC,InTransitQuantity,5.69363054944446
+2023-09-30,EV Car Battery,Göteborg DC,OnShelfInventoryQuantity,580
+2023-09-30,EV Car Battery,Göteborg DC,InTransitQuantity,48.5568376960033
+2023-09-30,Home Battery,Antwerp DC,OnShelfInventoryQuantity,105
+2023-09-30,Home Battery,Antwerp DC,InTransitQuantity,10.6577204049067
+2023-09-30,Home Battery,Wrocław DC,OnShelfInventoryQuantity,321
+2023-09-30,Home Battery,Wrocław DC,InTransitQuantity,14.3796205230473
+2023-09-30,Home Battery,Lyon DC,OnShelfInventoryQuantity,412
+2023-09-30,Home Battery,Lyon DC,InTransitQuantity,56.4224671320532
+2023-09-30,Home Battery,Birmingham DC,OnShelfInventoryQuantity,15
+2023-09-30,Home Battery,Birmingham DC,InTransitQuantity,0.569706899967107
+2023-09-30,Home Battery,Göteborg DC,OnShelfInventoryQuantity,501
+2023-09-30,Home Battery,Göteborg DC,InTransitQuantity,19.2801215972519
+2023-10-31,EV Car Battery,Antwerp DC,OnShelfInventoryQuantity,1754
+2023-10-31,EV Car Battery,Antwerp DC,InTransitQuantity,195.465533545457
+2023-10-31,EV Car Battery,Wrocław DC,OnShelfInventoryQuantity,267
+2023-10-31,EV Car Battery,Wrocław DC,InTransitQuantity,33.3032235620814
+2023-10-31,EV Car Battery,Lyon DC,OnShelfInventoryQuantity,299
+2023-10-31,EV Car Battery,Lyon DC,InTransitQuantity,25.1444604658125
+2023-10-31,EV Car Battery,Birmingham DC,OnShelfInventoryQuantity,50
+2023-10-31,EV Car Battery,Birmingham DC,InTransitQuantity,5.84137577142224
+2023-10-31,EV Car Battery,Göteborg DC,OnShelfInventoryQuantity,493
+2023-10-31,EV Car Battery,Göteborg DC,InTransitQuantity,41.2733120416028
+2023-10-31,Home Battery,Antwerp DC,OnShelfInventoryQuantity,103
+2023-10-31,Home Battery,Antwerp DC,InTransitQuantity,5.71825718061227
+2023-10-31,Home Battery,Wrocław DC,OnShelfInventoryQuantity,327
+2023-10-31,Home Battery,Wrocław DC,InTransitQuantity,41.917582575352
+2023-10-31,Home Battery,Lyon DC,OnShelfInventoryQuantity,402
+2023-10-31,Home Battery,Lyon DC,InTransitQuantity,10.2117710762068
+2023-10-31,Home Battery,Birmingham DC,OnShelfInventoryQuantity,11
+2023-10-31,Home Battery,Birmingham DC,InTransitQuantity,1.61146258897336
+2023-10-31,Home Battery,Göteborg DC,OnShelfInventoryQuantity,385
+2023-10-31,Home Battery,Göteborg DC,InTransitQuantity,57.2381033576641
+2023-11-30,EV Car Battery,Antwerp DC,OnShelfInventoryQuantity,1883
+2023-11-30,EV Car Battery,Antwerp DC,InTransitQuantity,202.928120893639
+2023-11-30,EV Car Battery,Wrocław DC,OnShelfInventoryQuantity,312
+2023-11-30,EV Car Battery,Wrocław DC,InTransitQuantity,27.3426426251519
+2023-11-30,EV Car Battery,Lyon DC,OnShelfInventoryQuantity,227
+2023-11-30,EV Car Battery,Lyon DC,InTransitQuantity,32.31556837265
+2023-11-30,EV Car Battery,Birmingham DC,OnShelfInventoryQuantity,46
+2023-11-30,EV Car Battery,Birmingham DC,InTransitQuantity,3.69882443656579
+2023-11-30,EV Car Battery,Göteborg DC,OnShelfInventoryQuantity,413
+2023-11-30,EV Car Battery,Göteborg DC,InTransitQuantity,41.1323152353624
+2023-11-30,Home Battery,Antwerp DC,OnShelfInventoryQuantity,106
+2023-11-30,Home Battery,Antwerp DC,InTransitQuantity,13.5900828986735
+2023-11-30,Home Battery,Wrocław DC,OnShelfInventoryQuantity,312
+2023-11-30,Home Battery,Wrocław DC,InTransitQuantity,49.539230923845
+2023-11-30,Home Battery,Lyon DC,OnShelfInventoryQuantity,372
+2023-11-30,Home Battery,Lyon DC,InTransitQuantity,23.7233002331585
+2023-11-30,Home Battery,Birmingham DC,OnShelfInventoryQuantity,11
+2023-11-30,Home Battery,Birmingham DC,InTransitQuantity,0.602545581855487
+2023-11-30,Home Battery,Göteborg DC,OnShelfInventoryQuantity,451
+2023-11-30,Home Battery,Göteborg DC,InTransitQuantity,31.0395326598539
+2023-12-31,EV Car Battery,Antwerp DC,OnShelfInventoryQuantity,2199
+2023-12-31,EV Car Battery,Antwerp DC,InTransitQuantity,199.817339027685
+2023-12-31,EV Car Battery,Wrocław DC,OnShelfInventoryQuantity,302
+2023-12-31,EV Car Battery,Wrocław DC,InTransitQuantity,37.3426426251519
+2023-12-31,EV Car Battery,Lyon DC,OnShelfInventoryQuantity,228
+2023-12-31,EV Car Battery,Lyon DC,InTransitQuantity,31.31556837265
+2023-12-31,EV Car Battery,Birmingham DC,OnShelfInventoryQuantity,41
+2023-12-31,EV Car Battery,Birmingham DC,InTransitQuantity,5.71689497037185
+2023-12-31,EV Car Battery,Göteborg DC,OnShelfInventoryQuantity,497
+2023-12-31,EV Car Battery,Göteborg DC,InTransitQuantity,20.7108393683131
+2023-12-31,Home Battery,Antwerp DC,OnShelfInventoryQuantity,116
+2023-12-31,Home Battery,Antwerp DC,InTransitQuantity,19.1367936755011
+2023-12-31,Home Battery,Wrocław DC,OnShelfInventoryQuantity,298
+2023-12-31,Home Battery,Wrocław DC,InTransitQuantity,49.0776616868912
+2023-12-31,Home Battery,Lyon DC,OnShelfInventoryQuantity,347
+2023-12-31,Home Battery,Lyon DC,InTransitQuantity,64.5522322424849
+2023-12-31,Home Battery,Birmingham DC,OnShelfInventoryQuantity,11
+2023-12-31,Home Battery,Birmingham DC,InTransitQuantity,0.834596493492597
+2023-12-31,Home Battery,Göteborg DC,OnShelfInventoryQuantity,489
+2023-12-31,Home Battery,Göteborg DC,InTransitQuantity,60.5250672322334
+2024-01-31,EV Car Battery,Antwerp DC,OnShelfInventoryQuantity,2367
+2024-01-31,EV Car Battery,Antwerp DC,InTransitQuantity,343.663593101284
+2024-01-31,EV Car Battery,Wrocław DC,OnShelfInventoryQuantity,257
+2024-01-31,EV Car Battery,Wrocław DC,InTransitQuantity,31.4412462313791
+2024-01-31,EV Car Battery,Lyon DC,OnShelfInventoryQuantity,220
+2024-01-31,EV Car Battery,Lyon DC,InTransitQuantity,13.384011535385
+2024-01-31,EV Car Battery,Birmingham DC,OnShelfInventoryQuantity,42
+2024-01-31,EV Car Battery,Birmingham DC,InTransitQuantity,5.65123286977929
+2024-01-31,EV Car Battery,Göteborg DC,OnShelfInventoryQuantity,426
+2024-01-31,EV Car Battery,Göteborg DC,InTransitQuantity,60.6481890062144
+2024-01-31,Home Battery,Antwerp DC,OnShelfInventoryQuantity,94
+2024-01-31,Home Battery,Antwerp DC,InTransitQuantity,14.1094349404008
+2024-01-31,Home Battery,Wrocław DC,OnShelfInventoryQuantity,244
+2024-01-31,Home Battery,Wrocław DC,InTransitQuantity,33.662129349513
+2024-01-31,Home Battery,Lyon DC,OnShelfInventoryQuantity,294
+2024-01-31,Home Battery,Lyon DC,InTransitQuantity,39.3573081164128
+2024-01-31,Home Battery,Birmingham DC,OnShelfInventoryQuantity,10
+2024-01-31,Home Battery,Birmingham DC,InTransitQuantity,0.651136844143338
+2024-01-31,Home Battery,Göteborg DC,OnShelfInventoryQuantity,414
+2024-01-31,Home Battery,Göteborg DC,InTransitQuantity,64.086808492043

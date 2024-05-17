@@ -1,0 +1,124 @@
+---
+title: "Home and Electrical vehicle battery production"
+author: "Group 25"
+output:
+  rolldown::scrollama:
+    self_contained: yes
+    number_sections: false
+---
+
+```{r, echo = FALSE}
+knitr::opts_chunk$set(eval = TRUE,
+                      echo = FALSE,
+                      warning = FALSE,
+                      message = FALSE)
+```
+
+```{r, echo = FALSE}
+source("0-global.R")
+```
+
+
+```{css, example, echo=FALSE}
+.level1 {
+  min-height: 400px;
+  border: none;
+}
+
+.is-active {
+  background-color: yellow;
+}
+
+body {
+  margin-bottom: 80vh;
+}
+```
+
+
+# Vendors {-}
+
+```{r}
+leaflet() |>
+  addMapboxTiles(style_id = Sys.getenv("MAPBOX_UNHCR_STYLE_ID"),
+                 username = Sys.getenv("MAPBOX_UNHCR_USER"),
+                 access_token = Sys.getenv("MAPBOX_UNHCR_TOKEN")) |>
+  addAwesomeMarkers(data = filter(loc_plants_vendors, type %in% "Vendor"),
+                    icon = markers$industry,
+                    popup = ~ label)
+```
+
+# Production plants and distribution centers {-}
+
+```{r}
+leaflet() |>
+  addMapboxTiles(style_id = Sys.getenv("MAPBOX_UNHCR_STYLE_ID"),
+                 username = Sys.getenv("MAPBOX_UNHCR_USER"),
+                 access_token = Sys.getenv("MAPBOX_UNHCR_TOKEN")) |>
+  addAwesomeMarkers(data = filter(loc_plants_vendors, !type %in% "Vendor"),
+                    icon = markers$Production,
+                    popup = ~ label)
+```
+
+# Inventory mostly about on-shelf quantities {-}
+
+```{r}
+invent |>
+  ggplot(aes(SnapshotDate, value, fill = name)) +
+  geom_area(show.legend = FALSE) +
+  geom_line(linesize = 0.1, alpha = 0.5, position = position_stack()) +
+  scale_x_date(date_labels = "%b %y", breaks = "1 year") +
+  scale_fill_manual(values = c("InTransitQuantity" = "#A33075",
+                               "OnShelfInventoryQuantity" = "#F1A72A")) +
+  facet_grid(MaterialDescription ~ PlantName) +
+  labs(title = "<span style = 'color:#A33075'>In transit</span> and <span style = 'color:#F1A72A'>on shelf</span> quantities in the inventory",
+       caption = "Source: SunCharge Supply Chain Information System") +
+  theme_ipsum(grid = "Y") +
+  theme(plot.title = element_markdown(face = "bold"),
+        plot.subtitle = element_markdown(face = "bold"),
+        axis.title.x = element_blank(),
+        axis.title.y = element_blank(),
+        axis.text.x = element_text(size = 7),
+        axis.text.y = element_text(size = 8),
+        strip.text.y = element_text(size = 10),
+        strip.text.x = element_text(size = 10))
+```
+
+# Planned vs actual purchase and delivery date {-}
+
+```{r}
+gap_purchase <- read_csv("./data/gap_purchase.csv")
+ggplot(gap_purchase,
+       aes(y = gap_label, x = day, fill = after_stat(x))) +
+  geom_density_ridges_gradient(alpha = .5, show.legend = FALSE) +
+  scale_y_discrete(expand = c(0, 0)) +
+  scale_x_continuous(expand = c(0, 0)) +
+  coord_cartesian(clip = "off") +
+  scale_fill_viridis_c(direction = -1, option = "magma") +
+  labs(title = "Number of days between planned and actual date for vendor shipment,<br> yard arrival and final destination arrival",
+       subtitle = "Planned and actual data of Vendor shipment and arrival at yards are usually the same,<br>but can in rare case go up to 2 weeks. The actual date of receipt usually couple of days<br> in advance compared to the planned data.",
+       caption = "Source: SunCharge Supply Chain Information System") +
+  theme_ridges() +
+  theme(plot.title.position = "plot",
+        plot.title = element_textbox(),
+        plot.subtitle = element_textbox(),
+        axis.title.x = element_blank(),
+        axis.title.y = element_blank())
+```
+
+# Happy customers all over Europe {-}
+
+Customers map
+
+```{r}
+leaflet() |>
+  addMapboxTiles(style_id = Sys.getenv("MAPBOX_UNHCR_STYLE_ID"),
+                 username = Sys.getenv("MAPBOX_UNHCR_USER"),
+                 access_token = Sys.getenv("MAPBOX_UNHCR_TOKEN")) |>
+  addAwesomeMarkers(data = loc_customers,
+                    icon = markers$user,
+                    popup =  ~ label,
+                    clusterOptions = markerClusterOptions(freezeAtZoom = 6))
+```
+
+  <!-- addHeatmap(data = coord, lng = ~long, lat = ~lat, -->
+  <!--            blur = 20, radius = 10, minOpacity = 0.7) -->

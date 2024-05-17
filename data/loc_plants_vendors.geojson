@@ -1,0 +1,24 @@
+{
+"type": "FeatureCollection",
+"name": "loc_plants_vendors",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "type": "Production", "city": "Antwerp", "country": "Belgium" }, "geometry": { "type": "Point", "coordinates": [ 4.3327002, 51.2747978 ] } },
+{ "type": "Feature", "properties": { "type": "Production", "city": "Wrocław", "country": "Poland" }, "geometry": { "type": "Point", "coordinates": [ 16.997162, 51.1193195 ] } },
+{ "type": "Feature", "properties": { "type": "Production", "city": "Lyon", "country": "France" }, "geometry": { "type": "Point", "coordinates": [ 4.7675045, 45.7520662 ] } },
+{ "type": "Feature", "properties": { "type": "Distribution Center", "city": "Antwerp", "country": "Belgium" }, "geometry": { "type": "Point", "coordinates": [ 4.3327002, 51.2747978 ] } },
+{ "type": "Feature", "properties": { "type": "Distribution Center", "city": "Wrocław", "country": "Poland" }, "geometry": { "type": "Point", "coordinates": [ 16.997162, 51.1193195 ] } },
+{ "type": "Feature", "properties": { "type": "Distribution Center", "city": "Lyon", "country": "France" }, "geometry": { "type": "Point", "coordinates": [ 4.7675045, 45.7520662 ] } },
+{ "type": "Feature", "properties": { "type": "Distribution Center", "city": "Birmingham", "country": "United Kingdom" }, "geometry": { "type": "Point", "coordinates": [ -1.8975181, 52.4285109 ] } },
+{ "type": "Feature", "properties": { "type": "Distribution Center", "city": "Göteborg", "country": "Sweden" }, "geometry": { "type": "Point", "coordinates": [ 11.8588688, 57.7225561 ] } },
+{ "type": "Feature", "properties": { "type": "Vendor", "city": "Antwerp", "country": "Belgium" }, "geometry": { "type": "Point", "coordinates": [ 4.330104999434, 51.27307606355 ] } },
+{ "type": "Feature", "properties": { "type": "Vendor", "city": "Wrocław", "country": "Poland" }, "geometry": { "type": "Point", "coordinates": [ 16.985984241989001, 51.124849255187002 ] } },
+{ "type": "Feature", "properties": { "type": "Vendor", "city": "Lyon", "country": "France" }, "geometry": { "type": "Point", "coordinates": [ 4.767374787158, 45.756250961237001 ] } },
+{ "type": "Feature", "properties": { "type": "Vendor", "city": "Jiaxing", "country": "China" }, "geometry": { "type": "Point", "coordinates": [ 101.571, 23.7203 ] } },
+{ "type": "Feature", "properties": { "type": "Vendor", "city": "Dortmund", "country": "Germany" }, "geometry": { "type": "Point", "coordinates": [ 7.4657279, 51.5161752 ] } },
+{ "type": "Feature", "properties": { "type": "Vendor", "city": "Poznan", "country": "Poland" }, "geometry": { "type": "Point", "coordinates": [ 16.857924, 52.3664401 ] } },
+{ "type": "Feature", "properties": { "type": "Vendor", "city": "Detroit", "country": "United States" }, "geometry": { "type": "Point", "coordinates": [ -83.2645798, 42.34360865 ] } },
+{ "type": "Feature", "properties": { "type": "Vendor", "city": "Shanghai", "country": "China" }, "geometry": { "type": "Point", "coordinates": [ 108.123, 26.4517 ] } },
+{ "type": "Feature", "properties": { "type": "Vendor", "city": "Miaoli", "country": "Taiwan" }, "geometry": { "type": "Point", "coordinates": [ 120.825001001741995, 24.581576010483001 ] } }
+]
+}
